@@ -1,0 +1,29 @@
+body {
+    letter-spacing: 2px;
+}
+
+h1 {
+    margin-bottom: 80px;
+    text-transform: uppercase;
+}
+
+.card-primary {
+    background-color: blue;
+    border-radius: 2px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card-secondary {
+    background-color: green;
+    border-radius: 2px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card-third {
+    background-color: firebrick;
+    border-radius: 2px;
+    padding: 10px;
+    margin: 10px;
+}
